@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_no_data_message">Please connect to internet to fetch trending Android repositories in GitHub</string>
+    <string name="something_went_wrong">Something went wrong. Please try again after some time.</string>
+</resources>

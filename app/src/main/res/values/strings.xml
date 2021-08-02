@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrenDroid</string>
+    <string name="trending_repositories">Trending Repositories</string>
+    <string name="home_no_data_message">Please connect to internet to fetch trending Android repositories in GitHub</string>
+    <string name="refresh">Refresh</string>
+    <string name="something_went_wrong">Something went wrong. Please try again after some time.</string>
+</resources>

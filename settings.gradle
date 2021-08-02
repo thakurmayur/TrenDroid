@@ -1,0 +1,2 @@
+rootProject.name = "TrenDroid"
+include ':app'
