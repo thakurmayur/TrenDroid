@@ -12,6 +12,9 @@ The app is using WorkManager to fetch repositories and its details in background
 
 App is design to work in offline mode as well.
 
+## Workflow
+![TrenDroid](https://user-images.githubusercontent.com/52519535/127817365-f601a681-3726-46ad-9d06-5e9d1d595a46.jpg)
+
 ## Libraries Used
 1. CardView
 2. RecyclerView
@@ -23,3 +26,4 @@ App is design to work in offline mode as well.
 8. WorkManger
 9. LifeCycle
 10. Dagger2
+11. Coroutines
